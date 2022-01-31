@@ -2,4 +2,4 @@
 
 ## 小程序
 
-### [《Mpx 小程序单元测试》](https://github.com/Blackgan3/my-blog/issue/1)
+### [《Mpx 小程序单元测试》](https://github.com/Blackgan3/my-blog/issues/1)
